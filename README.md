@@ -11,6 +11,8 @@ I’ve built real-world projects like an E-Book Store using Java (NetBeans) and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fady-tamer) 
 [![Codeforces](https://img.shields.io/badge/codeforces-blue?logo=codeforces&logoColor=white&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Ffady-tamer
 )](https://codeforces.com/profile/fady-tamer)
+![My website](https://img.shields.io/badge/My%20Website-%23bb2927?style=flat&logo=fadyTamer&link=https%3A%2F%2Ffady-tamer-portfolio.vercel.app%2F)
+
 
 ## 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white) 
