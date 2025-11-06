@@ -23,7 +23,7 @@ I’ve built real-world projects like an E-Book Store using Java (NetBeans) and 
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-tamer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-tamer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Fady-tamer&theme=dark&hide_border=false" alt="Streak" width="357px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Fady-tamer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Streak" width="325px"/>
 </p>
