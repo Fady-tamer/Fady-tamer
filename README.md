@@ -20,9 +20,3 @@ I’ve built real-world projects like an E-Book Store using Java (NetBeans) and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-%23777bb4?logo=php&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23cc2927?logo=MicrosoftSQLServer&logoColor=white) 
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-tamer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fady-tamer&theme=dark&hide_border=false" alt="Streak" width="357px"/>
-</p>
