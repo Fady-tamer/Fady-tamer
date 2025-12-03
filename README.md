@@ -19,4 +19,5 @@ I’ve built real-world projects like an E-Book Store using Java (NetBeans) and 
 ![CSS](https://img.shields.io/badge/CSS-white?logo=css3&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-%23777bb4?logo=php&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23cc2927?logo=MicrosoftSQLServer&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23cc2927?logo=MicrosoftSQLServer&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
