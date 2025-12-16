@@ -2,8 +2,14 @@
 
 **`CS Student at modern Academy in maadi 💻| competitive programmer 🧑🏻‍💻 | Frontend Developer 🖼️`**
 
-I'm a motivated Computer Science student at the Faculty of Computers and Artificial Intelligence, with hands-on experience in Java, SQL, and database-driven application development.<br>
-I’ve built real-world projects like an E-Book Store using Java (NetBeans) and Microsoft SQL Server, applying concepts like ER/UML diagrams, OOP, and GUI design.
+I'm a motivated Computer Science student at the Faculty of Computers and Artificial Intelligence<br>
+## I’ve built real-world projects like
+```
+🔹E-Book Store
+        using Java and Microsoft SQL Server, OOP and GUI design.
+🔹Rentels
+        using HTML, CSS, JavaScript and PHP
+```
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/fadytamer444/) 
