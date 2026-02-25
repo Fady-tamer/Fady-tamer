@@ -14,7 +14,7 @@ I'm a motivated Computer Science student at the Faculty of Computers and Artific
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/fadytamer444/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/_fady_tamer_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fady-tamer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fady-tamer) 
 [![Codeforces](https://img.shields.io/badge/codeforces-blue?logo=codeforces&logoColor=white&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Ffady-tamer)](https://codeforces.com/profile/fady-tamer)
 [![Codeforces](https://img.shields.io/badge/My%20website-%23ba2a27?link=https%3A%2F%2Ffady-tamer-portfolio.vercel.app%2F)](https://fady-tamer-portfolio.vercel.app/)
 
