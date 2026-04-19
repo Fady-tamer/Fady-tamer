@@ -1,6 +1,6 @@
 # 🧑‍💻 Fady Tamer
 
-**`CS Student at modern Academy in maadi 💻| competitive programmer 🧑🏻‍💻 | Frontend Developer 🖼️`**
+**`CS Student at modern Academy in maadi 💻 | Frontend Developer 🖼️`**
 
 I'm a motivated Computer Science student at the Faculty of Computers and Artificial Intelligence<br>
 ## I’ve built real-world projects like
@@ -19,11 +19,9 @@ I'm a motivated Computer Science student at the Faculty of Computers and Artific
 [![Codeforces](https://img.shields.io/badge/My%20website-%23ba2a27?link=https%3A%2F%2Ffady-tamer-portfolio.vercel.app%2F)](https://fady-tamer-portfolio.vercel.app/)
 
 ## 🧰 Languages and Tools
-![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-white?logo=HTML5&logoColor=black) 
-![CSS](https://img.shields.io/badge/CSS-white?logo=css3&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML-white?logo=HTML5&logoColor=blue) 
+![CSS](https://img.shields.io/badge/CSS-white?logo=css&logoColor=purple) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/PHP-%23777bb4?logo=php&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23cc2927?logo=MicrosoftSQLServer&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap-purple?logo=BootStrap&logoColor=white)
