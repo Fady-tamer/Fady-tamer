@@ -12,9 +12,8 @@ Currently studying CS at Modern Academy while shipping actual products.
 | Project | Tech | Live |
 |---|---|---|
 | 🏠 **Rentels** — Rental & Real Estate Marketplace | HTML · CSS · JS · PHP · SQL | [View →](https://github.com/Fady-tamer/Rentels) |
-| 📦 **All-In-One** — Supermarket Inventory System | HTML · CSS · JS · Firebase | [View →](link) |
-| 🎨 **Artist Gallery** — Portfolio Web App | HTML · CSS · JS · Firebase · Vercel | [Live →](https://fady-tamer-portfolio.vercel.app) |
-| 🍽️ **Point Restaurant** | HTML · CSS · JS | [View →](link) |
+| 📦 **All-In-One** — Supermarket Inventory System | HTML · CSS · JS · Firebase | [View →](https://github.com/Fady-tamer/all-in-one-store) |
+| 🎨 **Artist Gallery** — Portfolio Web App | HTML · CSS · JS · Firebase · Vercel | [Live →](https://artist-rana-gallery.vercel.app) |
 
 ---
 
@@ -32,5 +31,6 @@ Currently studying CS at Modern Academy while shipping actual products.
 ---
 
 ## 📫 Let's Connect
+[![instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/_fady_tamer_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007BB5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fady-tamer)
 [![Portfolio](https://img.shields.io/badge/My%20website-%23ba2a27?link=https%3A%2F%2Ffady-tamer-portfolio.vercel.app%2F)](https://fady-tamer-portfolio.vercel.app/)
