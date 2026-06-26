@@ -17,20 +17,34 @@ Currently studying CS at Modern Academy while shipping actual products.
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-white?logo=HTML5&logoColor=blue)
-![CSS](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=purple)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-%23777bb4?logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-white?logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Styling**
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
-[![instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/_fady_tamer_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007BB5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fady-tamer)
-[![Portfolio](https://img.shields.io/badge/My%20website-%23ba2a27?link=https%3A%2F%2Ffady-tamer-portfolio.vercel.app%2F)](https://fady-tamer-portfolio.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fady-tamer)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_fady_tamer_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ba2a27.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://fady-tamer-portfolio.vercel.app/)
