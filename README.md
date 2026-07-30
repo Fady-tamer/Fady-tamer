@@ -22,7 +22,7 @@ Currently studying CS at Modern Academy while shipping actual products.
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -33,8 +33,9 @@ Currently studying CS at Modern Academy while shipping actual products.
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PHP](https://img.shields.io/badge/php-%234f5b93.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=%23ffff00)
+![Strapi](https://img.shields.io/badge/strapi-%234945fe.svg?style=for-the-badge&logo=strapi)
 
 **Tools & Deployment**
 
