@@ -5,18 +5,6 @@
 I build real-world web applications — not just tutorial projects.
 Currently studying CS at Modern Academy while shipping actual products.
 
----
-
-## 🚀 What I've Built
-
-| Project | Tech | Live |
-|---|---|---|
-| 🏠 **Rentels** — Rental & Real Estate Marketplace | HTML · CSS · JS · PHP · SQL | [View →](https://github.com/Fady-tamer/Rentels) |
-| 📦 **All-In-One** — Supermarket Inventory System | HTML · CSS · JS · Firebase | [View →](https://github.com/Fady-tamer/all-in-one-store) |
-| 🎨 **Artist Gallery** — Portfolio Web App | HTML · CSS · JS · Firebase · Vercel | [Live →](https://artist-rana-gallery.vercel.app) |
-
----
-
 ## 💼 Tech Stack
 
 **Frontend**
@@ -36,6 +24,7 @@ Currently studying CS at Modern Academy while shipping actual products.
 ![PHP](https://img.shields.io/badge/php-%234f5b93.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=%23ffff00)
 ![Strapi](https://img.shields.io/badge/strapi-%234945fe.svg?style=for-the-badge&logo=strapi)
+![Supabase](https://img.shields.io/badge/supabase-%ff99ff55.svg?style=for-the-badge&logo=supabase)
 
 **Tools & Deployment**
 
